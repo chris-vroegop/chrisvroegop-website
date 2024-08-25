@@ -29,10 +29,10 @@ function HomePage() {
             <div className="home-content-text">
               <h3>GrayOut</h3>
               <p>Set Windows to grayscale, on a schedule.</p>
-              <p>Source and builds available on <a href="https://github.com/Scienciser/GrayOut">GitHub</a>.</p>
+              <p>Source and builds available on <a href="https://github.com/chris-vroegop/GrayOut">GitHub</a>.</p>
             </div>
             <div className="image-align-right">
-              <a href="https://github.com/Scienciser/GrayOut">
+              <a href="https://github.com/chris-vroegop/GrayOut">
                 <img className="home-img" src={GrayOutScreenshot}></img>
               </a>
             </div>
@@ -51,7 +51,7 @@ function HomePage() {
             <div className="home-content-text">
               <h3>CleanExit</h3>
               <p>Privacy-enhancing browser extension.</p>
-            <p>Available from the <a href="https://chromewebstore.google.com/detail/cleanexit/chjjljigikgecfimljpjkbmdkiiimaop">Chrome Web Store</a> or <a href="https://github.com/Scienciser/CleanExit">GitHub</a>.</p>
+            <p>Available from the <a href="https://chromewebstore.google.com/detail/cleanexit/chjjljigikgecfimljpjkbmdkiiimaop">Chrome Web Store</a> or <a href="https://github.com/chris-vroegop/CleanExit">GitHub</a>.</p>
             </div>
             <div className="image-align-right">
               <a href="https://chromewebstore.google.com/detail/cleanexit/chjjljigikgecfimljpjkbmdkiiimaop">
@@ -60,12 +60,12 @@ function HomePage() {
             </div>
           </div>
           <div className="home-content-wrap home-content-flex">
-            <a href="https://github.com/Scienciser/spatialequityproject/blob/main/report/compsci380_spatial_equity_project.pdf">
+            <a href="https://github.com/chris-vroegop/spatialequityproject/blob/main/report/compsci380_spatial_equity_project.pdf">
               <img className="home-img" src={SpatialEquity} height={"300px"} style={{textAlign: "right"}} />
             </a>
             <div className='home-content-text text-padding-right'>
               <h3>Spatial Equity Project Aotearoa</h3>
-              <p>An <a href="https://github.com/Scienciser/spatialequityproject/blob/main/report/compsci380_spatial_equity_project.pdf">report</a> on equitable access to amenity in New Zealand, with attached <a href="https://github.com/Scienciser/spatialequityproject">R library.</a></p>
+              <p>An <a href="https://github.com/chris-vroegop/spatialequityproject/blob/main/report/compsci380_spatial_equity_project.pdf">report</a> on equitable access to amenity in New Zealand, with attached <a href="https://github.com/chris-vroegop/spatialequityproject">R library.</a></p>
             </div>
           </div>
         </div>
@@ -87,7 +87,7 @@ function HomePage() {
           <h3>Check out my links:</h3>
           <div id="home-badges-wrapper">
             <a href="/cv_chris_vroegop.pdf"><img className="home-badgeimg" src={DownloadCV} ></img></a>
-            <a href="https://github.com/Scienciser"><img className="home-badgeimg" src={GitHub} ></img></a>
+            <a href="https://github.com/chris-vroegop"><img className="home-badgeimg" src={GitHub} ></img></a>
             <a href="https://www.linkedin.com/in/christopher-vroegop"><img className="home-badgeimg" src={LinkedIn}></img></a>
           </div>
         </div>
